@@ -7,7 +7,7 @@ editor. If your ledger file has the `.ledger` suffix, you should be fine.
 
 ```bash
 git clone https://github.com/whereswaldon/ledger.kak
-ln -sv $PWD/kakdown/ledger.kak ~/.config/kak/autoload/
+ln -sv $PWD/ledger.kak/ledger.kak ~/.config/kak/autoload/
 ```
 
 **Note:** If this is your first time installing a Kakoune plugin and you don't already
