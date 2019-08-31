@@ -1,5 +1,7 @@
 # ledger.kak
 
+> **THIS PROJECT IS DEPRECATED. Kakoune now includes builtin support for ledger file syntax and completions.
+
 An extremely crude implementation of ledgerfile account name autocompletion for the [kakoune](https://kakoune.org)
 editor. If your ledger file has the `.ledger` suffix, you should be fine.
 
